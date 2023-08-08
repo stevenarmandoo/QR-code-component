@@ -1,3 +1,5 @@
+@import url(https://www.w3docs.com/snippets/css/how-to-import-google-fonts-in-css-file.html);
+
 body {
     background-color: hsl(212, 45%, 89%);
     height: 100vh;
@@ -22,17 +24,17 @@ body {
     width: 100%;
 }
 
-.text h2{
+.text h1{
     color: #000;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 700;
-    font-family: Outfit;
+    font-family: "outfit", sans-serif;
     text-align: center;
 }
 
 .text p{
     color: hsl(220, 15%, 55%);
     text-align: center;
-    font-family: Outfit;
+    font-family: "outfit", sans-serif;
     font-weight: 400;
 }
